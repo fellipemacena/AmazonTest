@@ -1,4 +1,4 @@
-# AmazonTest via Selenium | Junit | Eclipse
+# AmazonTest via Selenium | Junit4 | Eclipse
 
 Automação de um fluxo de login -> busca -> seleção produto -> adiciona produto no carrinho -> exclui o mesmo do carrinho
 
