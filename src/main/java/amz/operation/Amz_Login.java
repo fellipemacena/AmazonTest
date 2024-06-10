@@ -26,12 +26,12 @@ public class Amz_Login extends Amz_BasePage{
 		
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(1));
 		
-		escreve("//div[1]/input[1]", "testfafm@gmail.com");
+		escreve("//div[1]/input[1]", "e-mail");
 		clicar("//span/input");
 		
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(1));
 		
-		escreve("//div/div[1]/input", "qazxsw12");
+		escreve("//div/div[1]/input", "password");
 		clicar("//span/input");
 		
 	}
